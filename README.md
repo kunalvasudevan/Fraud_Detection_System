@@ -26,6 +26,3 @@ Deep learning models are often considered "black boxes" because they are difficu
 ### Conclusion: 
 The proposed automated fraud detection system using deep learning techniques will help businesses prevent financial losses and protect their reputation. It will be an essential tool for e-commerce platforms, financial institutions, and other businesses that deal with online transactions.
 
-### Final Deployment 
-
-https://huggingface.co/spaces/ameya123ch/fraud_detection
